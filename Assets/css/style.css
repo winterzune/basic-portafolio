@@ -11,8 +11,8 @@ text-align: left;
 }
 
 #photo {
-    /*decide width
-    float: left;*/
+    float: left;
+    margin: 0 15px 15px 0;
 }
 
 #bio {
@@ -28,11 +28,18 @@ color: black;
 width: 960px;
 margin-left: auto;
 margin-right: auto;
+padding-top: 20px;
 
 }
 
 #footer {
-
     background-color: #666666;
     color: #ffffff;
+    padding: 1px;
+}
+
+span {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
 }
