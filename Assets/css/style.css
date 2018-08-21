@@ -12,17 +12,28 @@ position: relative;
     border?*/
 }
 
+form {
+    display: block;
+    background: #ffffff;
+    padding: 22px;
+
+}
+
 #photo {
     float: left;
     margin: 0 15px 15px 0;
 }
 
 #bio {
-    /*decide size
-    float: right;*/
+    display: block;
+    background: white;
+    padding: 0px;
 }
 
-
+h2 {
+    color: #4aaaa5;
+    border-bottom: 1px solid black;
+}
 
 Body {
 background-color: #ffffff;
