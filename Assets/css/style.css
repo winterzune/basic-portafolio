@@ -2,6 +2,8 @@
 background-color: #4aaaa5;
 color: whitesmoke;
 text-align: left;
+width: 31%;
+position: relative;
 }
 
 #mid {
@@ -21,6 +23,7 @@ text-align: left;
 }
 
 
+
 Body {
 background-color: #ffffff;
 font-family: Georgia, 'Times New Roman', Times, serif;
@@ -31,6 +34,7 @@ margin-right: auto;
 padding-top: 20px;
 
 }
+
 
 #footer {
     background-color: #666666;

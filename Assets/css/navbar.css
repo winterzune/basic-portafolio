@@ -1,0 +1,60 @@
+ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ position: fixed;
+ width: 25%;
+ top: 0;
+
+}
+
+li a {
+    display: block;
+    width: 69px;
+    text-align: center;
+    display: inline;
+    float: right;
+    padding-bottom: 7px;
+}
+
+a {
+    display: block;
+    padding: 7px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*.links {
+
+
+    position: static;
+    top: 40px;
+    right: 90px;
+    display: inline-block;
+    background-color: #4aaaa5;
+}
+
+li {
+    
+    list-style-type: none;
+    display: inline-block; 
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 15px;
+    width: 50%;
+    display: inline-block;
+
+}*/
