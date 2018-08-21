@@ -19,6 +19,22 @@ form {
 
 }
 
+.Gallery {
+
+margin: 5px;
+padding: 0px;
+float: left;
+width: 10px;
+}
+
+.desc {
+    display: block;
+    text-align: center;
+    color: black;
+    background: #4aaaa5;
+    width: 220px;
+}
+
 #photo {
     float: left;
     margin: 0 15px 15px 0;
@@ -51,6 +67,7 @@ padding-top: 20px;
     background-color: #666666;
     color: #ffffff;
     padding: 1px;
+    clear: both;
 }
 
 span {
