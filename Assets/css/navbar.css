@@ -1,27 +1,23 @@
-ul {
+
+nav {
  list-style: none;
  margin: 0;
  padding: 0;
- overflow: hidden;
- position: fixed;
- width: 25%;
+ float: right;
  top: 0;
+ background: white;
+ 
+ 
 
 }
 
-li a {
-    display: block;
-    width: 69px;
+li {
+    display: inline-block;
     text-align: center;
-    display: inline;
-    float: right;
-    padding-bottom: 7px;
-}
-
-a {
-    display: block;
-    padding: 7px;
-    color: black;
+    color:black;
+    padding: 5px;
+    font-size: 16px;
+    
 }
 
 
